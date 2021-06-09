@@ -1,7 +1,5 @@
 //Khaled Shaheen
-//CSCI-201
-//4-22-2021
-//FINAL PROJECT!
+//Project Done by: Khaled Shaheen
 #include<iostream>
 #include<fstream>
 using namespace std;

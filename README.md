@@ -8,4 +8,4 @@ Main Menu:
 5. Quit
 6. Please enter your choice 1..5 
 
-The Menu above represents what would the system do when you press numbers 1 to 6. Two files should be open so the system can work as intended. One file that reads student information and the other file outputs student information that might have changed due to the user chooses from the menu.
+The Menu above represents what would the system do when you press numbers 1 to 6. Two files should be open so the system can work as intended. One file that reads student information and the other file outputs student information that might have changed due to the user choices from the menu.

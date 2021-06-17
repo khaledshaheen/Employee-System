@@ -1,4 +1,4 @@
- Student System Project
+ Employee System Project
  
 Main Menu:
 1.Add New Employee
